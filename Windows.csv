@@ -1,0 +1,12 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ComponentizedBuild,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,CSDBuildNumber,DWord,"000003D9"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,CSDReleaseType,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,CSDVersion,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,Directory,ExpandString,C:\Windows
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ErrorMode,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,FullProcessInformationSID,Binary,"0106000000000005500000005EF30FB18164AE04B14CA22914B14C21A6568656"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,NoInteractiveServices,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ShellErrorMode,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,SystemDirectory,String,C:\Windows\SysWOW64
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ShutdownTime,Binary,"1BA7BF638047D701"
